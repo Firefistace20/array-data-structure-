@@ -1,4 +1,4 @@
-
+// minimise the diffrence between heights 
 #include <iostream>
 #include <algorithm>
 using namespace std;
