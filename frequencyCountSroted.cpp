@@ -1,5 +1,6 @@
 
 //count the frequency of the element in array 
+//this solution worked for both sorted and unsorted array 
 #include <bits/stdc++.h>
   using namespace std;
 
