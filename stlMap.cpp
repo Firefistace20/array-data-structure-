@@ -28,6 +28,10 @@ int main()
 	for(it=mp.begin();it!=mp.end();it++){
 	    cout<<it->first<<" " <<it->second<<endl;
 	}
+	//returns the size of the map
+	cout<<mp.size()
+	mp.erase(1)//provide key in the function and it will remove the pair 
+        mp.clear()//no need to pass parameter it will delete all the elements 
 	
 	// using find() to search for '5'
 	// key found
